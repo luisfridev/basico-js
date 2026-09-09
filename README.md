@@ -8,3 +8,4 @@ Apuntos del curso de Fundamentos de Javascript de Platzi.
 - [Manejo de strings en Javascript](./3-manejo-de-strings.js)
 - [Numeros y operaciones en Javascript](./4-numeros-y-operaciones.js)
 - [Conversion de tipos](./5-conversion-de-tipos.js)
+- [Funciones en Javascript](./6-funciones-en-javascript.js)
